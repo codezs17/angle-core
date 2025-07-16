@@ -9,7 +9,6 @@
 
 Angle is a decentralized stablecoin protocol, designed to be both over-collateralized and capital-efficient. For more information about the protocol, you can refer to [Angle Documentation](https://docs.angle.money).
 
-
 The protocol is made of different modules, each with their own set of smart contracts. This repo contains the Core module smart contracts as well as the governance-related and staking contracts of the protocol.
 
 If you would like to know how the module works under the hood and how these smart contracts work together, you can also check [Angle Developers Doc](https://developers.angle.money/core-module-contracts/protocol-and-architecture-overview).
